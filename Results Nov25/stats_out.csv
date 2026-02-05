@@ -1,0 +1,222 @@
+test,model,avg1,avg2,pvalue,stattest,group
+model vs human,Llama3.1-70B-Instruct Q,0.913612565,0.945851528,0.001558171,mcnemar,1
+model vs human,Llama3.1-405B-Instruct Q,0.931937173,0.945851528,0.174205405,mcnemar,1
+model vs human,Llama3.3-70B-Instruct Q,0.920593368,0.945851528,0.011275812,mcnemar,1
+model vs human,gpt-4o-mini Q,0.880453752,0.945851528,2.22E-09,mcnemar,1
+model vs human,gpt-4o Q,0.94938918,0.945851528,0.76879181,mcnemar,1
+met vs sim,glove add_lem,0.536382151,0.607142857,7.24E-07,chi2,2m
+met vs sim,sbert2_long,0.586192469,0.728865979,9.78E-31,chi2,2m
+met vs sim,GPT-Neo-1.3B m2,0.567503487,0.637113402,1.74E-08,chi2,
+met vs sim,Llama2-7B m2,0.645606695,0.689690722,0.000145217,chi2,
+met vs sim,Llama2-13B m2,0.660669456,0.69742268,0.001141451,chi2,
+met vs sim,Llama2-70B m2,0.690655509,0.730927835,0.00030015,chi2,
+met vs sim,Llama2-7B-chat m2,0.683403068,0.730927835,2.81E-05,chi2,
+met vs sim,Llama2-13B-chat m2,0.70446304,0.737628866,0.002114811,chi2,
+met vs sim,Llama-3-70B-Instruct-Turbo m2,0.692747559,0.73556701,0.000127238,chi2,
+met vs sim,Llama-3.1-70B-Instruct-Turbo m2,0.705997211,0.75,6.94E-05,chi2,
+met vs sim,Llama-3.1-405B-Instruct-Turbo m2,0.737517434,0.762371134,0.013144696,chi2,
+met vs sim,Llama-3.3-70B-Instruct-Turbo m2,0.69986053,0.750515464,6.36E-06,chi2,
+met vs sim,Llama2-70B mixedprompt,0.784379358,0.842268041,9.51E-09,chi2,2q
+met vs sim,Llama2-13B-chat mixedprompt,0.667224547,0.732989691,1.75E-08,chi2,2q
+met vs sim,Llama-3.1-70B-Instruct-Turbo mixedprompt,0.892050209,0.906701031,0.030823789,chi2,2q
+met vs sim,Llama-3.1-405B-Instruct-Turbo mixedprompt,0.914783821,0.921134021,0.185339523,chi2,2q
+met vs sim,Llama-3.3-70B-Instruct-Turbo mixedprompt,0.89804742,0.903608247,0.235195503,chi2,2q
+met vs sim,GPT-4o-mini mixedprompt,0.862622036,0.904639175,4.62E-07,chi2,2q
+met vs sim,GPT-4o mixedprompt,0.937935844,0.936082474,0.382364923,chi2,2q
+met vs sim,o1-mini mixedprompt,0.919804742,0.936082474,0.008430092,chi2,2q
+met vs sim,Llama-3-70B-Instruct c,0.694793119,0.7395189,1.64E-11,chi2,2m
+met vs sim,Llama-3-70B-Instruct cf,0.648953975,0.667268041,0.016756999,chi2,
+met vs sim,Llama-3.1-70B-Instruct c,0.69651325,0.740893471,2.16E-11,chi2,2m
+met vs sim,Llama-3.1-70B-Instruct cf,0.645467225,0.672938144,0.000722515,chi2,
+met vs sim,Llama-3.1-405B-Instruct c,0.736541144,0.756198347,0.00120936,chi2,2m
+met vs sim,Llama-3.1-405B-Instruct cf,0.665341702,0.68,0.042735914,chi2,
+met vs sim,Llama-3.3-70B-Instruct c,0.69683868,0.738831615,2.23E-10,chi2,2m
+met vs sim,Llama-3.3-70B-Instruct cf,0.641910739,0.661597938,0.011448328,chi2,
+met vs sim,Llama3.1-70B-Instruct Q,0.91,0.926829268,0.202524901,chi2,2t
+met vs sim,Llama3.1-405B-Instruct Q,0.927777778,0.947154472,0.142451563,chi2,2t
+met vs sim,Llama3.3-70B-Instruct Q,0.914444444,0.943089431,0.07043037,chi2,2t
+met vs sim,gpt-4o-mini Q,0.872222222,0.910569106,0.050204085,chi2,2t
+met vs sim,gpt-4o Q,0.948888889,0.951219512,0.441256976,chi2,2t
+met vs sim,q_test_total,0.914666667,0.935772358,0.008043616,chi2,
+met vs sim,human,0.946666667,0.942857143,0.407648845,chi2,2t
+neg vs intens,glove add_lem,0.449308756,0.580491673,1.54E-11,chi2,3m
+neg vs intens,sbert2_long,0.146149181,0.929824561,0,chi2,3m
+neg vs intens,GPT-Neo-1.3B m2,0.478471801,0.605565638,1.16E-13,chi2,
+neg vs intens,Llama2-7B m2,0.654335961,0.560193587,1.53E-08,chi2,
+neg vs intens,Llama2-13B m2,0.691934506,0.542044767,4.05E-19,chi2,
+neg vs intens,Llama2-70B m2,0.72650091,0.585601936,7.86E-18,chi2,
+neg vs intens,Llama2-7B-chat m2,0.660400243,0.647912886,0.225333624,chi2,
+neg vs intens,Llama2-13B-chat m2,0.712553062,0.612825166,6.80E-10,chi2,
+neg vs intens,Llama-3-70B-Instruct-Turbo m2,0.708308065,0.576527526,1.40E-15,chi2,
+neg vs intens,Llama-3.1-70B-Instruct-Turbo m2,0.748938751,0.565033273,4.49E-29,chi2,
+neg vs intens,Llama-3.1-405B-Instruct-Turbo m2,0.785930867,0.61645493,1.01E-26,chi2,
+neg vs intens,Llama-3.3-70B-Instruct-Turbo m2,0.741055185,0.569872958,2.12E-25,chi2,
+neg vs intens,Llama2-70B mixedprompt,0.611279563,0.887477314,3.12E-75,chi2,3q
+neg vs intens,Llama2-13B-chat mixedprompt,0.382049727,0.850574713,5.13E-169,chi2,3q
+neg vs intens,Llama-3.1-70B-Instruct-Turbo mixedprompt,0.835051546,0.918935269,1.07E-13,chi2,3q
+neg vs intens,Llama-3.1-405B-Instruct-Turbo mixedprompt,0.91206792,0.90139141,0.145762158,chi2,3q
+neg vs intens,Llama-3.3-70B-Instruct-Turbo mixedprompt,0.839296543,0.924984876,1.11E-14,chi2,3q
+neg vs intens,GPT-4o-mini mixedprompt,0.732565191,0.929219601,1.14E-51,chi2,3q
+neg vs intens,GPT-4o mixedprompt,0.901152213,0.952208106,9.08E-09,chi2,3q
+neg vs intens,o1-mini mixedprompt,0.870830807,0.955837871,1.92E-18,chi2,3q
+neg vs intens,Llama-3-70B-Instruct c,0.731958763,0.556765477,2.10E-74,chi2,3m
+neg vs intens,Llama-3-70B-Instruct cf,0.686173438,0.505444646,6.35E-51,chi2,
+neg vs intens,Llama-3.1-70B-Instruct c,0.742268041,0.551522484,4.54E-88,chi2,3m
+neg vs intens,Llama-3.1-70B-Instruct cf,0.691934506,0.513914096,9.47E-50,chi2,
+neg vs intens,Llama-3.1-405B-Instruct c,0.799676572,0.589836661,4.10E-114,chi2,3m
+neg vs intens,Llama-3.1-405B-Instruct cf,0.708914494,0.544162129,7.48E-44,chi2,
+neg vs intens,Llama-3.3-70B-Instruct c,0.729128765,0.574309337,4.08E-59,chi2,3m
+neg vs intens,Llama-3.3-70B-Instruct cf,0.689508793,0.520871143,6.10E-45,chi2,
+neg vs intens,Llama3.1-70B-Instruct Q,0.86746988,0.916666667,0.073579881,chi2,3t
+neg vs intens,Llama3.1-405B-Instruct Q,0.921686747,0.922619048,0.48731727,chi2,3t
+neg vs intens,Llama3.3-70B-Instruct Q,0.873493976,0.93452381,0.029064579,chi2,3t
+neg vs intens,gpt-4o-mini Q,0.734939759,0.946428571,6.15E-08,chi2,3t
+neg vs intens,gpt-4o Q,0.921686747,0.946428571,0.181033497,chi2,3t
+neg vs intens,q_test_total,0.863855422,0.933333333,1.26E-06,chi2,
+neg vs intens,human,0.93373494,0.94047619,0.399836558,chi2,3t
+past vs pres,glove add_lem,0.547225502,0.555456438,0.248291054,chi2,4m
+past vs pres,sbert2_long,0.604361371,0.630610413,0.005313799,chi2,4m
+past vs pres,GPT-Neo-1.3B m2,0.572096128,0.594030521,0.017677042,chi2,
+past vs pres,Llama2-7B m2,0.6435247,0.667414722,0.008706369,chi2,
+past vs pres,Llama2-13B m2,0.654873164,0.684470377,0.001457868,chi2,
+past vs pres,Llama2-70B m2,0.686693369,0.713420108,0.002901056,chi2,
+past vs pres,Llama2-7B-chat m2,0.680907877,0.708258528,0.002486689,chi2,
+past vs pres,Llama2-13B-chat m2,0.697819315,0.727109515,0.001103483,chi2,
+past vs pres,Llama-3-70B-Instruct-Turbo m2,0.683578104,0.721499102,4.36E-05,chi2,
+past vs pres,Llama-3.1-70B-Instruct-Turbo m2,0.697374277,0.732944345,9.67E-05,chi2,
+past vs pres,Llama-3.1-405B-Instruct-Turbo m2,0.730529595,0.756283662,0.002643097,chi2,
+past vs pres,Llama-3.3-70B-Instruct-Turbo m2,0.695594126,0.726211849,0.000700515,chi2,
+past vs pres,Llama2-70B mixedprompt,0.775700935,0.817324955,5.05E-07,chi2,4q
+past vs pres,Llama2-13B-chat mixedprompt,0.65576324,0.708707361,3.76E-08,chi2,4q
+past vs pres,Llama-3.1-70B-Instruct-Turbo mixedprompt,0.884290165,0.905520646,0.000530213,chi2,4q
+past vs pres,Llama-3.1-405B-Instruct-Turbo mixedprompt,0.908099688,0.924147217,0.003092188,chi2,4q
+past vs pres,Llama-3.3-70B-Instruct-Turbo mixedprompt,0.888740543,0.910906643,0.000240138,chi2,4q
+past vs pres,GPT-4o-mini mixedprompt,0.851579884,0.891606822,7.66E-09,chi2,4q
+past vs pres,GPT-4o mixedprompt,0.932131731,0.942773788,0.018831401,chi2,4q
+past vs pres,o1-mini mixedprompt,0.911214953,0.93491921,1.30E-05,chi2,4q
+past vs pres,Llama-3-70B-Instruct c,0.683355585,0.725987433,9.61E-15,chi2,4m
+past vs pres,Llama-3-70B-Instruct cf,0.637182911,0.668649013,4.90E-06,chi2,
+past vs pres,Llama-3.1-70B-Instruct c,0.690624536,0.721947935,8.80E-09,chi2,4m
+past vs pres,Llama-3.1-70B-Instruct cf,0.64129951,0.661916517,0.001898626,chi2,
+past vs pres,Llama-3.1-405B-Instruct c,0.724795843,0.757704967,3.76E-10,chi2,4m
+past vs pres,Llama-3.1-405B-Instruct cf,0.655015028,0.683236086,3.02E-05,chi2,
+past vs pres,Llama-3.3-70B-Instruct c,0.687880136,0.724416517,2.50E-11,chi2,4m
+past vs pres,Llama-3.3-70B-Instruct cf,0.634623943,0.657091562,0.000837479,chi2,
+past vs pres,Llama3.1-70B-Instruct Q,0.922155689,0.907051282,0.184850521,chi2,4t
+past vs pres,Llama3.1-405B-Instruct Q,0.94011976,0.926282051,0.179024782,chi2,4t
+past vs pres,Llama3.3-70B-Instruct Q,0.924151697,0.918269231,0.358188349,chi2,4t
+past vs pres,gpt-4o-mini Q,0.882235529,0.879807692,0.450283686,chi2,4t
+past vs pres,gpt-4o Q,0.956087824,0.945512821,0.208809242,chi2,4t
+past vs pres,q_test_total,0.9249501,0.915384615,0.094823728,chi2,
+past vs pres,human,0.952095808,0.940609952,0.199098236,chi2,4t
+low vs high concreteness,glove add_lem,0.586005831,0.565406977,0.219924075,chi2,5m
+low vs high concreteness,sbert2_long,0.637760703,0.631174533,0.385187886,chi2,5m
+low vs high concreteness,GPT-Neo-1.3B m2,0.578485181,0.593852909,0.252726774,chi2,
+low vs high concreteness,Llama2-7B m2,0.643249177,0.677277717,0.062587672,chi2,
+low vs high concreteness,Llama2-13B m2,0.661909989,0.706915477,0.019378197,chi2,
+low vs high concreteness,Llama2-70B m2,0.698133919,0.728869374,0.073409525,chi2,
+low vs high concreteness,Llama2-7B-chat m2,0.679473106,0.713501647,0.057101176,chi2,
+low vs high concreteness,Llama2-13B-chat m2,0.703622393,0.737650933,0.052764635,chi2,
+low vs high concreteness,Llama-3-70B-Instruct-Turbo m2,0.698133919,0.749725576,0.00688886,chi2,
+low vs high concreteness,Llama-3.1-70B-Instruct-Turbo m2,0.703622393,0.758507135,0.004123774,chi2,
+low vs high concreteness,Llama-3.1-405B-Instruct-Turbo m2,0.736553238,0.79582876,0.001399633,chi2,
+low vs high concreteness,Llama-3.3-70B-Instruct-Turbo m2,0.697036224,0.746432492,0.009325174,chi2,
+low vs high concreteness,Llama2-70B mixedprompt,0.774972558,0.816684962,0.01360385,chi2,5q
+low vs high concreteness,Llama2-13B-chat mixedprompt,0.699231614,0.688254665,0.305636486,chi2,5q
+low vs high concreteness,Llama-3.1-70B-Instruct-Turbo mixedprompt,0.889132821,0.902305159,0.178824722,chi2,5q
+low vs high concreteness,Llama-3.1-405B-Instruct-Turbo mixedprompt,0.904500549,0.93413831,0.010100691,chi2,5q
+low vs high concreteness,Llama-3.3-70B-Instruct-Turbo mixedprompt,0.884742042,0.905598244,0.073103281,chi2,5q
+low vs high concreteness,GPT-4o-mini mixedprompt,0.866081229,0.868276619,0.445096488,chi2,5q
+low vs high concreteness,GPT-4o mixedprompt,0.92974753,0.939626784,0.196727883,chi2,5q
+low vs high concreteness,o1-mini mixedprompt,0.926454446,0.93413831,0.259787887,chi2,5q
+low vs high concreteness,Llama-3-70B-Instruct c,0.695938529,0.747530187,7.68E-05,chi2,5m
+low vs high concreteness,Llama-3-70B-Instruct cf,0.658068057,0.672886937,0.171572013,chi2,
+low vs high concreteness,Llama-3.1-70B-Instruct c,0.707281376,0.736004391,0.017330631,chi2,5m
+low vs high concreteness,Llama-3.1-70B-Instruct cf,0.648188804,0.665751921,0.132069246,chi2,
+low vs high concreteness,Llama-3.1-405B-Instruct c,0.735455543,0.782656422,0.000144301,chi2,5m
+low vs high concreteness,Llama-3.1-405B-Instruct cf,0.661909989,0.695389682,0.015237671,chi2,
+low vs high concreteness,Llama-3.3-70B-Instruct c,0.710940359,0.741492865,0.011982272,chi2,5m
+low vs high concreteness,Llama-3.3-70B-Instruct cf,0.638858397,0.650384193,0.23366544,chi2,
+low vs high concreteness,Llama3.1-70B-Instruct Q,0.912280702,0.973684211,0.0227888,chi2,5t
+low vs high concreteness,Llama3.1-405B-Instruct Q,0.921052632,0.973684211,0.037577844,chi2,5t
+low vs high concreteness,Llama3.3-70B-Instruct Q,0.929824561,0.964912281,0.117743628,chi2,5t
+low vs high concreteness,gpt-4o-mini Q,0.868421053,0.929824561,0.061864955,chi2,5t
+low vs high concreteness,gpt-4o Q,0.947368421,0.973684211,0.153783367,chi2,5t
+low vs high concreteness,q_test_total,0.915789474,0.963157895,0.000398998,chi2,
+low vs high concreteness,human,0.956140351,0.947368421,0.378638372,chi2,5t
+M1 vs M2,Llama-3-70B-Instruct,0.698682766,0.715257958,6.59E-12,mcnemar,
+M1 vs M3,Llama-3-70B-Instruct,0.698682766,0.699012075,0.941199146,mcnemar,
+M1 vs M4,Llama-3-70B-Instruct,0.698682766,0.672008782,1.59E-12,mcnemar,
+M1 vs M5,Llama-3-70B-Instruct,0.698682766,0.633699232,2.79E-58,mcnemar,
+M2 vs M3,Llama-3-70B-Instruct,0.715257958,0.699012075,4.52E-09,mcnemar,
+M2 vs M4,Llama-3-70B-Instruct,0.715257958,0.672008782,1.73E-31,mcnemar,
+M2 vs M5,Llama-3-70B-Instruct,0.715257958,0.633699232,3.74E-90,mcnemar,
+M3 vs M4,Llama-3-70B-Instruct,0.699012075,0.672008782,3.18E-15,mcnemar,
+M3 vs M5,Llama-3-70B-Instruct,0.699012075,0.633699232,3.05E-69,mcnemar,
+M4 vs M5,Llama-3-70B-Instruct,0.672008782,0.633699232,5.31E-37,mcnemar,
+M1 vs M2,Llama-3.1-70B-Instruct,0.701427003,0.722502744,2.96E-13,mcnemar,
+M1 vs M3,Llama-3.1-70B-Instruct,0.701427003,0.693962678,0.024015532,mcnemar,
+M1 vs M4,Llama-3.1-70B-Instruct,0.701427003,0.671240395,2.94E-14,mcnemar,
+M1 vs M5,Llama-3.1-70B-Instruct,0.701427003,0.631394072,9.41E-65,mcnemar,
+M2 vs M3,Llama-3.1-70B-Instruct,0.722502744,0.693962678,1.45E-22,mcnemar,
+M2 vs M4,Llama-3.1-70B-Instruct,0.722502744,0.671240395,4.10E-40,mcnemar,
+M2 vs M5,Llama-3.1-70B-Instruct,0.722502744,0.631394072,2.15E-109,mcnemar,
+M3 vs M4,Llama-3.1-70B-Instruct,0.693962678,0.671240395,3.05E-10,mcnemar,
+M3 vs M5,Llama-3.1-70B-Instruct,0.693962678,0.631394072,3.57E-62,mcnemar,
+M4 vs M5,Llama-3.1-70B-Instruct,0.671240395,0.631394072,2.20E-32,mcnemar,
+M1 vs M2,Llama-3.1-405B-Instruct,0.739841863,0.754557435,6.58E-10,mcnemar,
+M1 vs M3,Llama-3.1-405B-Instruct,0.739841863,0.727761915,2.06E-05,mcnemar,
+M1 vs M4,Llama-3.1-405B-Instruct,0.739841863,0.694554238,2.58E-37,mcnemar,
+M1 vs M5,Llama-3.1-405B-Instruct,0.739841863,0.642363017,2.89E-138,mcnemar,
+M2 vs M3,Llama-3.1-405B-Instruct,0.754557435,0.727761915,1.15E-26,mcnemar,
+M2 vs M4,Llama-3.1-405B-Instruct,0.754557435,0.694554238,1.28E-62,mcnemar,
+M2 vs M5,Llama-3.1-405B-Instruct,0.754557435,0.642363017,3.41E-179,mcnemar,
+M3 vs M4,Llama-3.1-405B-Instruct,0.727761915,0.694554238,2.40E-22,mcnemar,
+M3 vs M5,Llama-3.1-405B-Instruct,0.727761915,0.642363017,9.36E-118,mcnemar,
+M4 vs M5,Llama-3.1-405B-Instruct,0.694554238,0.642363017,6.25E-64,mcnemar,
+M1 vs M2,Llama-3.3-70B-Instruct,0.702744237,0.713611416,0.000147494,mcnemar,
+M1 vs M3,Llama-3.3-70B-Instruct,0.702744237,0.700987925,0.60522837,mcnemar,
+M1 vs M4,Llama-3.3-70B-Instruct,0.702744237,0.665751921,2.73E-21,mcnemar,
+M1 vs M5,Llama-3.3-70B-Instruct,0.702744237,0.626454446,3.82E-80,mcnemar,
+M2 vs M3,Llama-3.3-70B-Instruct,0.713611416,0.700987925,7.94E-05,mcnemar,
+M2 vs M4,Llama-3.3-70B-Instruct,0.713611416,0.665751921,3.54E-33,mcnemar,
+M2 vs M5,Llama-3.3-70B-Instruct,0.713611416,0.626454446,2.11E-98,mcnemar,
+M3 vs M4,Llama-3.3-70B-Instruct,0.700987925,0.665751921,9.72E-22,mcnemar,
+M3 vs M5,Llama-3.3-70B-Instruct,0.700987925,0.626454446,5.29E-84,mcnemar,
+M4 vs M5,Llama-3.3-70B-Instruct,0.665751921,0.626454446,9.67E-34,mcnemar,
+c vs cf,Llama-3-70B-Instruct,0.7043176,0.652854007,2.88E-31,chi2,8
+c vs cf,Llama-3.1-70B-Instruct,0.705964142,0.651317234,5.07E-35,chi2,8
+c vs cf,Llama-3.1-405B-Instruct,0.740720404,0.66846006,9.40E-63,chi2,8
+c vs cf,Llama-3.3-70B-Instruct,0.705781193,0.646103183,3.12E-41,chi2,8
+not neg vs not intens,human1,0.904255319,0.925531915,0.30057803,chi2,6
+not neg vs antonym neg,human2,0.904255319,0.972222222,0.04051899,chi2,6
+antonym neg vs antonym intens,human3,0.972222222,0.959459459,0.335803263,chi2,6
+not intens vs antonym intens,human4,0.925531915,0.959459459,0.178083005,chi2,6
+lit vs fig,glove add_lem,0.587044534,0.502564103,0.150518064,mcnemar,7m
+lit vs fig,sbert2_long,0.875,0.515625,1.16E-18,mcnemar,7m
+lit vs fig,GPT-Neo-1.3B m2,0.7265625,0.5546875,4.94E-06,mcnemar,
+lit vs fig,Llama2-7B m2,0.703125,0.6328125,0.038460053,mcnemar,
+lit vs fig,Llama2-13B m2,0.78515625,0.640625,1.69E-05,mcnemar,
+lit vs fig,Llama2-70B m2,0.796875,0.6796875,0.000134514,mcnemar,
+lit vs fig,Llama2-7B-chat m2,0.8515625,0.68359375,8.91E-07,mcnemar,
+lit vs fig,Llama2-13B-chat m2,0.85546875,0.6875,1.68E-07,mcnemar,
+lit vs fig,Llama-3-70B-Instruct-Turbo m2,0.75390625,0.66015625,0.007084253,mcnemar,
+lit vs fig,Llama-3.1-70B-Instruct-Turbo m2,0.73828125,0.65625,0.011141407,mcnemar,
+lit vs fig,Llama-3.1-405B-Instruct-Turbo m2,0.80859375,0.69140625,0.000357955,mcnemar,
+lit vs fig,Llama-3.3-70B-Instruct-Turbo m2,0.74609375,0.66015625,0.007148734,mcnemar,
+lit vs fig,Llama2-70B mixedprompt,0.92578125,0.77734375,5.85E-06,mcnemar,7q
+lit vs fig,Llama2-13B-chat mixedprompt,0.875,0.625,6.04E-10,mcnemar,7q
+lit vs fig,Llama-3.1-70B-Instruct-Turbo mixedprompt,0.96875,0.89453125,0.001318727,mcnemar,7q
+lit vs fig,Llama-3.1-405B-Instruct-Turbo mixedprompt,0.9609375,0.8984375,0.007000367,mcnemar,7q
+lit vs fig,Llama-3.3-70B-Instruct-Turbo mixedprompt,0.9453125,0.90625,0.110184165,mcnemar,7q
+lit vs fig,GPT-4o-mini mixedprompt,0.96484375,0.85546875,2.54E-05,mcnemar,7q
+lit vs fig,GPT-4o mixedprompt,0.96484375,0.9375,0.210039616,mcnemar,7q
+lit vs fig,o1-mini mixedprompt,0.94921875,0.93359375,0.584664712,mcnemar,7q
+lit vs fig,Llama-3-70B-Instruct c,0.791666667,0.63671875,9.05E-12,chi2,7m
+lit vs fig,Llama-3-70B-Instruct cf,0.640625,0.580078125,0.023489767,chi2,
+lit vs fig,Llama-3.1-70B-Instruct c,0.752604167,0.639322917,6.97E-07,chi2,7m
+lit vs fig,Llama-3.1-70B-Instruct cf,0.603515625,0.60546875,0.474520457,chi2,
+lit vs fig,Llama-3.1-405B-Instruct c,0.80859375,0.677083333,1.86E-09,chi2,7m
+lit vs fig,Llama-3.1-405B-Instruct cf,0.6796875,0.625,0.033078221,chi2,
+lit vs fig,Llama-3.3-70B-Instruct c,0.78125,0.63671875,2.26E-10,chi2,7m
+lit vs fig,Llama-3.3-70B-Instruct cf,0.6171875,0.611328125,0.423637672,chi2,
