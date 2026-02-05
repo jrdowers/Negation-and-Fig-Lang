@@ -1,257 +1,257 @@
-startphrase,ending1,ending2,labels,xid,adj_negation_pair
-She is honest,She can be trusted,She can not be trusted,0,10_0,
-she is dishonest,She can be trusted,She can not be trusted,1,10_1,1
-The student was cooperative,He was helpful,he was not helpful,0,40_0,
-The student was uncooperative,He was helpful,he was not helpful,1,40_1,1
-The man was stylish,The man was cool,The man was not cool,0,50_0,
-The man was unfashionable,The man was cool,The man was not cool,1,50_1,1
-The child was devout,The child was religious,The child was not religious,0,63_0,
-The child was atheistic,The child was religious,The child was not religious,1,63_1,1
-The hangover made her feel terrible,She felt bad,She did not feel bad,0,87_0,
-The hangover made her feel good,She felt bad,She did not feel bad,1,87_1,
-The room was unenclosed,The room was open,The room was not open,0,89_0,2
-The room was enclosed,The room was open,The room was not open,1,89_1,
-His joints are crackly,His joints snap,His joints do not snap,0,92_0,
-His joints are silent,His joints snap,His joints do not snap,1,92_1,
-The toy was cherished,The toy was cared for,The toy was not cared for,0,102_0,
-The toy was neglected,The toy was cared for,The toy was not cared for,1,102_1,
-The movie is humorous,The movie is funny,The movie is not funny,0,113_0,
-The movie is boring,The movie is funny,The movie is not funny,1,113_1,
-The couch was nice to sit on,The couch was comfortable,The couch was not comfortable,0,131_0,
-The couch was nasty to sit on,The couch was comfortable,The couch was not comfortable,1,131_1,
-The incense has a sweet smell,The incense smells good,The incense does not smell good,0,138_0,
-The incense has a disgusting smell,The incense smells good,The incense does not smell good,1,138_1,
-The girl was thirsty,The girl needed water,The girl did not need water,0,139_0,
-The girl was hydrated,The girl needed water,The girl did not need water,1,139_1,
-The room was bright,The room was well lit,The room was not well lit,0,143_0,
-The room was dark,The room was well lit,The room was not well lit,1,143_1,
-The sun was shining,The sun was very bright,The sun was not very bright,0,144_0,
-The sun was dim,The sun was very bright,The sun was not very bright,1,144_1,
-The sand feels smooth,it's coarse,it's not coarse,0,175_0,
-The sand feels rough,it's coarse,it's not coarse,1,175_1,
-She was experienced,She was skillful,She was not skillful,0,185_0,
-She was inexperienced,She was skillful,She was not skillful,1,185_1,1
-The movie ending was straightforward,The movie ending made sense,The movie ending did not make sense,0,200_0,
-The movie ending was confusing,The movie ending made sense,The movie ending did not make sense,1,200_1,
-She was boring,She wasn't entertaining.,She was very entertaining.,0,205_0,
-She was fun,She wasn't entertaining.,She was very entertaining.,1,205_1,
-The cat had a lot of hair,The cat was furry,The cat was not furry,0,215_0,
-The cat was bald,The cat was furry,The cat was not furry,1,215_1,
-The disease was severe,The disease was very serious,The disease was not serious,0,234_0,
-The disease was minor,The disease was very serious,The disease was not serious,1,234_1,
-The wood floor is smooth,The floor is not slippery,The floor is slippery,0,238_0,
-The wood floor is rough,The floor is not slippery,The floor is slippery,1,238_1,
-He's tireless,He's busy,He's not busy,0,261_0,2
-He's lazy,He's busy,He's not busy,1,261_1,
-The book is chunky,The book is thick,The book is not thick,0,262_0,
-The book is thin,The book is thick,The book is not thick,1,262_1,
-The man's muscles are big,The man is muscular,The man is not muscular,0,264_0,
-The man's muscles are small,The man is muscular,The man is not muscular,1,264_1,
-The computer is efficient,The computer is fast,The computer is not fast,0,267_0,
-The computer is slow,The computer is fast,The computer is not fast,1,267_1,
-He is a coward,He is not brave,He is brave,0,269_0,
-He is a hero,He is not brave,He is brave,1,269_1,
-The vase was weak,The vase is fragile,The vase is not fragile,0,280_0,
-The vase was strong,The vase is fragile,The vase is not fragile,1,280_1,
-She was a close friend to him,He knew her well,He didn't know her well,0,293_0,
-She was a stranger to him,He knew her well,He didn't know her well,1,293_1,
-It was freezing,It wasn't hot,It was hot,0,295_0,
-It was scorching,It wasn't hot,It was hot,1,295_1,
-The elderly cat is tired,The cat is not hyperactive,The cat is hyperactive,0,305_0,
-The elderly cat has a lot of energy,The cat is not hyperactive,The cat is hyperactive,1,305_1,
-The work was mediocre,the work was amazing,the work was not amazing,0,309_0,
-The work was exceptional,the work was amazing,the work was not amazing,1,309_1,
-The child was intelligent,The child was smart,The child was not smart,0,317_0,
-The child was stupid,The child was smart,The child was not smart,1,317_1,
-The government was very productive,The government was efficient,The government was not efficient,0,323_0,
-The government was unproductive,The government was efficient,The government was not efficient,1,323_1,1
-She's lovely,She's sweet,She's not sweet,0,329_0,
-She's horrible,She's sweet,She's not sweet,1,329_1,
-The letter was touching,The letter was heartwarming.,The letter wasn't heartwarming,0,333_0,
-The letter was distressing,The letter was heartwarming.,The letter wasn't heartwarming,1,333_1,
-The tree canopy has a small shadows,The tree canopy does not provide shade,The tree canopy provides shade,0,350_0,
-The tree canopy has a large shadows,The tree canopy does not provide shade,The tree canopy provides shade,1,350_1,
-The You Tube tutorial was unenlightening,The You Tube tutorial wasn't informative,The You Tube tutorial was informative,0,369_0,1
-The You Tube tutorial was enlightening,The You Tube tutorial wasn't informative,The You Tube tutorial was informative,1,369_1,
-He was frightened,he was scared,he wasn't scared,0,383_0,
-He was fearless,he was scared,he wasn't scared,1,383_1,1
-It was effortless,It was easy,It was not easy,0,396_0,2
-It was difficult,It was easy,It was not easy,1,396_1,
-The clone was indistinguishable,The clone is identical,The clone isn't identical,0,411_0,2
-The clone was dissimilar,The clone is identical,The clone isn't identical,1,411_1,
-Their relationship was superficial,The weren't close,They were close,0,430_0,
-Their relationship was intimate,The weren't close,They were close,1,430_1,
-It has a huge lifespan,It lives for a long time,It doesn't live for a long time,0,478_0,
-It has a short lifespan,It lives for a long time,It doesn't live for a long time,1,478_1,
-The shampoo has a strong moisturizing power,It moisturizes well,It doesn't moisturize well,0,479_0,
-The shampoo has a weak moisturizing power,It moisturizes well,It doesn't moisturize well,1,479_1,
-The movie was unsurprising,The movie could be predicted,The movie couldn't be predicted,0,493_0,2
-The movie was surprising,The movie could be predicted,The movie couldn't be predicted,1,493_1,
-The girl gets a lot of attention,The girl gets attention.,The girl doesn't get attention,0,494_0,
-The girl gets little attention,The girl gets attention.,The girl doesn't get attention,1,494_1,
-Their marriage was enthusiastic,Their marriage is very passionate,Their marriage is not very passionate,0,500_0,
-Their marriage was apathetic,Their marriage is very passionate,Their marriage is not very passionate,1,500_1,
-The house was noisy,The house was not silent,The house was silent,0,517_0,
-The house was quiet,The house was not silent,The house was silent,1,517_1,
-The pillow is squashy,The pillow is soft,The pillow is not soft,0,518_0,
-The pillow is hard,The pillow is soft,The pillow is not soft,1,518_1,
-The book was as entertaining,The book was enjoyable,The book was not enjoyable,0,519_0,
-The book was as boring,The book was enjoyable,The book was not enjoyable,1,519_1,
-His movements were dexterous,His movements were delicate,His movements were not delicate,0,556_0,
-His movements were clumsy,His movements were delicate,His movements were not delicate,1,556_1,
-The light was shining,The light was bright,The light was not bright,0,557_0,
-The light was faint,The light was bright,The light was not bright,1,557_1,
-The bottle is transparent,The bottle is clear,The bottle is not clear,0,567_0,
-The bottle is opaque,The bottle is clear,The bottle is not clear,1,567_1,
-That cat was dangerous,The cat was deadly,The cat was not deadly,0,588_0,
-That cat was harmless,The cat was deadly,The cat was not deadly,1,588_1,1
-The actors in the play were incompetent,The actors are not talented,The actors are very talented,0,592_0,1
-The actors in the play were skilled,The actors are not talented,The actors are very talented,1,592_1,
-The tofu is peppery,The tofu is spicy,The tofu is not spicy,0,599_0,
-The tofu is mild,The tofu is spicy,The tofu is not spicy,1,599_1,
-The car was reliable,The car works well,The car does not work well,0,637_0,
-The car was unreliable,The car works well,The car does not work well,1,637_1,1
-The woman was attractive,The woman is good looking,The woman is not good looking,0,642_0,
-The woman was ugly,The woman is good looking,The woman is not good looking,1,642_1,
-The drawing was circular,The drawing was round,The drawing was not round,0,648_0,
-The drawing was square,The drawing was round,The drawing was not round,1,648_1,
-I could eat a lot,I am very hungry,I am not very hungry,0,654_0,
-I could eat a little,I am very hungry,I am not very hungry,1,654_1,
-He is unfriendly,He is not sociable,He is sociable,0,661_0,1
-He is friendly,He is not sociable,He is sociable,1,661_1,
-The juice box is adhesive,The juice box is sticky,The juice box isn't sticky,0,667_0,
-The juice box is slippery,The juice box is sticky,The juice box isn't sticky,1,667_1,
-The lightbulb is very bright,The lightbulb puts out a lot of light,The lightbulb does not put out a lot of light,0,671_0,
-The lightbulb is very faint,The lightbulb puts out a lot of light,The lightbulb does not put out a lot of light,1,671_1,
-The screen play was ficticious,The screen play wasn't realistic,The screen play was realistic,0,709_0,
-The screen play was factual,The screen play wasn't realistic,The screen play was very factual,1,709_1,
-The book is stupid,he book was not fantastic,The book was fantastic,0,741_0,
-The book is clever,he book was not fantastic,The book was fantastic,1,741_1,
-My puppy is lethargic,My puppy doesn't have a lot of energy,My puppy has a lot of energy,0,759_0,
-My puppy is lively,My puppy doesn't have a lot of energy,My puppy has a lot of energy,1,759_1,
-I found her to be boring,She was not interesting,She was interesting,0,760_0,
-I found her to be intriguing,She was not interesting,She was interesting,1,760_1,
-Those peppers I ate were spicy,The peppers were hot,The peppers were not hot,0,761_0,
-Those peppers I ate were mild,The peppers were hot,The peppers were not hot,1,761_1,
-Her fingernails were soft,Her fingernails were brittle,Her fingernails were not brittle,0,784_0,
-Her fingernails were hard,Her fingernails were brittle,Her fingernails were not brittle,1,784_1,
-He runs quickly,He can run really fast,He can not run really fast,0,796_0,
-He runs slowly,He can run really fast,He can not run really fast,1,796_1,
-The movie was hilarious,The movie wasn't funny,The movie was funny,1,821_0,
-The movie was serious,The movie wasn't funny,The movie was funny,0,821_1,
-The fence is corroded,The fence is rusty,The fence is not rusty,0,824_0,
-The fence is pristine,The fence is rusty,The fence is not rusty,1,824_1,
-That movie was prolonged,The movie was long,The movie was not long,0,857_0,
-That movie was brief,The movie was long,The movie was not long,1,857_1,
-She was emotionally weak,She was not emotionally resilient,She was emotionally resilient,0,861_0,
-She was emotionally strong,She was not emotionally resilient,She was emotionally resilient,1,861_1,
-That thing is expensive,The item is valuable,The item is not valuable,0,876_0,
-That thing is worthless,The item is valuable,The item is not valuable,1,876_1,1
-His position on the platform was precarious,His position was not stable,His position was stable,0,880_0,
-His position on the platform was firm,His position was not stable,His position was stable,1,880_1,
-His feet were large,His feet were not small,His feet were small,0,887_0,
-His feet were tiny,His feet were not small,His feet were small,1,887_1,
-The gift I received was desirable,The gift was beneficial,The gift was not beneficial,0,888_0,
-The gift I received was unsuitable,The gift was beneficial,The gift was not beneficial,1,888_1,1
-The man was determined,The man is ambitious,The man is not ambitious,0,891_0,
-The man was unmotivated,The man is ambitious,The man is not ambitious,1,891_1,1
-This game is difficult,The game is very hard,The game is not very hard,0,931_0,
-This game is easy,The game is very hard,The game is not very hard,1,931_1,
-The boy's voice was very loud,The boy's voice could be heard,The boy's voice couldn't be heard,0,971_0,
-The boy's voice was very quiet,The boy's voice could be heard,The boy's voice couldn't be heard,1,971_1,
-He has good eyesight,He sees well,He doesn't see well,0,999_0,
-He has poor eyesight,He sees well,He doesn't see well,1,999_1,
-He's strict,He's not lenient,He's lenient,0,1000_0,
-He's tolerant,He's not lenient,He's lenient,1,1000_1,
-The comedian was amusing,The comedian was funny,The comedian was not funny,0,1029_0,
-The comedian was boring,The comedian was funny,The comedian was not funny,1,1029_1,
-The judge was unintelligent,The judge is not smart,The judge is smart,0,1072_0,1
-The judge was intelligent,The judge is not smart,The judge is smart,1,1072_1,
-That wave was huge,The wave was very big,The wave wasn't very big,0,1073_0,
-That wave was small,The wave was very big,The wave wasn't very big,1,1073_1,
-This is entertaining,It's fun,It's not fun,0,1088_0,
-This is boring,It's fun,It's not fun,1,1088_1,
-The shopping list was thorough,The shopping list was detailed,The shopping list was not detailed,0,1100_0,
-The shopping list was unorganised,The shopping list was detailed,The shopping list was not detailed,1,1100_1,1
-The blanket was velvety,The blanket was soft,The blanket was not soft,0,1106_0,
-The blanket was rough,The blanket was soft,The blanket was not soft,1,1106_1,
-He sang passionately,He was emotional while singing,He was not emotional while singing,0,1118_0,
-He sang apathetically,He was emotional while singing,He was not emotional while singing,1,1118_1,
-The football fans at the beginning of the season were hopeful,The football fans believed that the football season would be successful,The football fans did not believe that the football season would be successful,0,1141_0,
-The football fans at the beginning of the season were pessimistic,The football fans believed that the football season would be successful,The football fans did not believe that the football season would be successful,1,1141_1,
-The girl smiled excitedly,The girl's smile was exuberant,The girl's smile was not exuberant,0,1168_0,
-The girl smiled calmly,The girl's smile was exuberant,The girl's smile was not exuberant,1,1168_1,
-That man was likeable,He was not charming,He was charming,1,1178_0,
-That man was hostile,He was not charming,He was charming,0,1178_1,
-He's selfish,He doesn't share a lot,He shares a lot,0,1253_0,
-He's generous,He doesn't share a lot,He shares a lot,1,1253_1,
-This food is delicious,This food is very flavorful,This food is not very flavorful,0,1300_0,
-This food is tasteless,This food is very flavorful,This food is not very flavorful,1,1300_1,1
-This is painful,This hurts,This does not hurt,0,1324_0,
-This is painless,This hurts,This does not hurt,1,1324_1,1
-The knife is reflective,The knife is shiny,The knife is not shiny,0,1337_0,
-The knife is matte,The knife is shiny,The knife is not shiny,1,1337_1,
-The bone is pale,The bone is white,The bone is not white,0,1352_0,
-The bone is dark,The bone is white,The bone is not white,1,1352_1,
-The villain is very intelligent,The villain is a genius,The villain is not a genius,0,1361_0,
-The villain is ignorant,The villain is a genius,The villain is not a genius,1,1361_1,
-He has vast knowledge about science,He knows a lot about science,He doesn't know a lot about science,0,1374_0,
-He has limited knowledge about science,He knows a lot about science,He doesn't know a lot about science,1,1374_1,
-That man is truthful,The man is honest,The man is not honest,0,1409_0,
-That man is deceitful,The man is honest,The man is not honest,1,1409_1,
-He fought powerfully,He fought well,He didn't fight well,0,1410_0,
-He fought weakly,He fought well,He didn't fight well,1,1410_1,
-The house was enticing,The house was inviting,The house was not inviting,0,1436_0,
-The house was repulsive,The house was inviting,The house was not inviting,1,1436_1,
-That website is helpful,The website was not useful,The website was useful,1,1461_0,
-That website is unhelpful,The website was not useful,The website was useful,0,1461_1,1
-The lamp was bright,The lamp gave off a lot of light,The lamp did not give off a lot of light,0,1482_0,
-The lamp was dim,The lamp gave off a lot of light,The lamp did not give off a lot of light,1,1482_1,
-The costume fit snugly,The costume fit well,The costume didn't fit well,0,1534_0,
-The costume fit inadiquately,The costume fit well,The costume didn't fit well,1,1534_1,1
-They got few people interested,There's not many people interested in this,There's many people interested in this,0,1567_0,
-They got numerous people interested,There's not many people interested in this,There's many people interested in this,1,1567_1,
-The boy is slim,The boy is thin,The boy isn't thin,0,1571_0,
-The boy is fat,The boy is thin,The boy isn't thin,1,1571_1,
-The artist's work is identifiable,The artist's work is recognizable,The artist's work isn't recognizable,0,1572_0,
-The artist's work is unremarkable,The artist's work is recognizable,The artist's work isn't recognizable,1,1572_1,1
-He works busily,He works really hard,He doesn't work really hard,0,1617_0,
-He works lazily,He works really hard,He doesn't work really hard,1,1617_1,
-He's capable at jumping,He can jump really well,He can't jump really well,0,1619_0,
-He's awful at jumping,He can jump really well,He can't jump really well,1,1619_1,
-The love between the two was enthusiastic,The love was very passionate,The love was not very passionate,0,1623_0,
-The love between the two was modest,The love was very passionate,The love was not very passionate,1,1623_1,
-After finishing his invention he felt proud,The invention was very well done,The invention was not very well done,0,1634_0,
-After finishing his invention he felt ashamed,The invention was very well done,The invention was not very well done,1,1634_1,
-That boy is very dumb,The boy is not a genius,The boy is a genius,0,1635_0,
-That boy is very intelligent,The boy is not a genius,The boy is a genius,1,1635_1,
-They are excited,they are hyped,they aren't hyped,0,1672_0,
-They are disinterested,they are hyped,they aren't hyped,1,1672_1,1
-This blanket is thin,The blanket does not keep me warm,The blanket keeps me warm,0,1677_0,
-This blanket is insulating,The blanket does not keep me warm,The blanket keeps me warm,1,1677_1,
-The music is annoying,The music is not calming,The music is calming,0,1697_0,
-The music is a soothing,The music is not calming,The music is calming,1,1697_1,
-The route was direct,The route followed a straight line,The route did not follow a straight line,0,1699_0,
-The route was twisting,The route followed a straight line,The route did not follow a straight line,1,1699_1,
-The knife was cutting,The knife was sharp,The knife wasn't sharp,0,1707_0,
-The knife was blunt,The knife was sharp,The knife wasn't sharp,1,1707_1,
-He's solemn,He's very serious,He's not very serious,0,1717_0,
-He's playful,He's very serious,He's not very serious,1,1717_1,
-The document is formal,The document is official,The document isn't official,0,1760_0,
-The document is casual,The document is official,The document isn't official,1,1760_1,
-The milk was warm,The milk was not cold,The milk was cold,0,1801_0,
-The milk was chilled,The milk was not cold,The milk was cold,1,1801_1,
-He is dirty,He is not a clean person,He is a clean person,0,X6_0,
-He is hygienic,He is not a clean person,He is a clean person,1,X6_1,
-The night was unilluminated,The night was dark,The night was not dark,0,X10_0,2
-The night was bright,The night was dark,The night was not dark,1,X10_1,
-The food is edible,The food can be digested easily,The food can not be digested easily,0,X11_0,
-The food is inedible,The food can be digested easily,The food can not be digested easily,1,X11_1,1
-Mary's voice is pleasing,Mary is a good singer,Mary is not a good singer,0,X15_0,
-Mary's voice is harsh,Mary is a good singer,Mary is not a good singer,1,X15_1,
-The illness was benign,The illness is not serious,The illness is serious,0,X19_0,
-The illness was deadly,The illness is not serious,The illness is serious,1,X19_1,
-The story was tedious,The story was not enthralling,The story was enthralling,0,X30_0,
-The story was captivating,The story was not enthralling,The story was enthralling,1,X30_1,
-That monster was terrifying,That monster was scary,That monster was not scary,0,X39_0,
-That monster was harmless,That monster was scary,That monster was not scary,1,X39_1,1
+startphrase,ending1,ending2,labels,xid
+She is honest,She can be trusted,She can not be trusted,0,10_0
+she is dishonest,She can be trusted,She can not be trusted,1,10_1
+The student was cooperative,He was helpful,he was not helpful,0,40_0
+The student was uncooperative,He was helpful,he was not helpful,1,40_1
+The man was stylish,The man was cool,The man was not cool,0,50_0
+The man was unfashionable,The man was cool,The man was not cool,1,50_1
+The child was devout,The child was religious,The child was not religious,0,63_0
+The child was atheistic,The child was religious,The child was not religious,1,63_1
+The hangover made her feel terrible,She felt bad,She did not feel bad,0,87_0
+The hangover made her feel good,She felt bad,She did not feel bad,1,87_1
+The room was unenclosed,The room was open,The room was not open,0,89_0
+The room was enclosed,The room was open,The room was not open,1,89_1
+His joints are crackly,His joints snap,His joints do not snap,0,92_0
+His joints are silent,His joints snap,His joints do not snap,1,92_1
+The toy was cherished,The toy was cared for,The toy was not cared for,0,102_0
+The toy was neglected,The toy was cared for,The toy was not cared for,1,102_1
+The movie is humorous,The movie is funny,The movie is not funny,0,113_0
+The movie is boring,The movie is funny,The movie is not funny,1,113_1
+The couch was nice to sit on,The couch was comfortable,The couch was not comfortable,0,131_0
+The couch was nasty to sit on,The couch was comfortable,The couch was not comfortable,1,131_1
+The incense has a sweet smell,The incense smells good,The incense does not smell good,0,138_0
+The incense has a disgusting smell,The incense smells good,The incense does not smell good,1,138_1
+The girl was thirsty,The girl needed water,The girl did not need water,0,139_0
+The girl was hydrated,The girl needed water,The girl did not need water,1,139_1
+The room was bright,The room was well lit,The room was not well lit,0,143_0
+The room was dark,The room was well lit,The room was not well lit,1,143_1
+The sun was shining,The sun was very bright,The sun was not very bright,0,144_0
+The sun was dim,The sun was very bright,The sun was not very bright,1,144_1
+The sand feels smooth,it's coarse,it's not coarse,0,175_0
+The sand feels rough,it's coarse,it's not coarse,1,175_1
+She was experienced,She was skillful,She was not skillful,0,185_0
+She was inexperienced,She was skillful,She was not skillful,1,185_1
+The movie ending was straightforward,The movie ending made sense,The movie ending did not make sense,0,200_0
+The movie ending was confusing,The movie ending made sense,The movie ending did not make sense,1,200_1
+She was boring,She wasn't entertaining.,She was very entertaining.,0,205_0
+She was fun,She wasn't entertaining.,She was very entertaining.,1,205_1
+The cat had a lot of hair,The cat was furry,The cat was not furry,0,215_0
+The cat was bald,The cat was furry,The cat was not furry,1,215_1
+The disease was severe,The disease was very serious,The disease was not serious,0,234_0
+The disease was minor,The disease was very serious,The disease was not serious,1,234_1
+The wood floor is smooth,The floor is not slippery,The floor is slippery,0,238_0
+The wood floor is rough,The floor is not slippery,The floor is slippery,1,238_1
+He's tireless,He's busy,He's not busy,0,261_0
+He's lazy,He's busy,He's not busy,1,261_1
+The book is chunky,The book is thick,The book is not thick,0,262_0
+The book is thin,The book is thick,The book is not thick,1,262_1
+The man's muscles are big,The man is muscular,The man is not muscular,0,264_0
+The man's muscles are small,The man is muscular,The man is not muscular,1,264_1
+The computer is efficient,The computer is fast,The computer is not fast,0,267_0
+The computer is slow,The computer is fast,The computer is not fast,1,267_1
+He is a coward,He is not brave,He is brave,0,269_0
+He is a hero,He is not brave,He is brave,1,269_1
+The vase was weak,The vase is fragile,The vase is not fragile,0,280_0
+The vase was strong,The vase is fragile,The vase is not fragile,1,280_1
+She was a close friend to him,He knew her well,He didn't know her well,0,293_0
+She was a stranger to him,He knew her well,He didn't know her well,1,293_1
+It was freezing,It wasn't hot,It was hot,0,295_0
+It was scorching,It wasn't hot,It was hot,1,295_1
+The elderly cat is tired,The cat is not hyperactive,The cat is hyperactive,0,305_0
+The elderly cat has a lot of energy,The cat is not hyperactive,The cat is hyperactive,1,305_1
+The work was mediocre,the work was amazing,the work was not amazing,0,309_0
+The work was exceptional,the work was amazing,the work was not amazing,1,309_1
+The child was intelligent,The child was smart,The child was not smart,0,317_0
+The child was stupid,The child was smart,The child was not smart,1,317_1
+The government was very productive,The government was efficient,The government was not efficient,0,323_0
+The government was unproductive,The government was efficient,The government was not efficient,1,323_1
+She's lovely,She's sweet,She's not sweet,0,329_0
+She's horrible,She's sweet,She's not sweet,1,329_1
+The letter was touching,The letter was heartwarming.,The letter wasn't heartwarming,0,333_0
+The letter was distressing,The letter was heartwarming.,The letter wasn't heartwarming,1,333_1
+The tree canopy has a small shadows,The tree canopy does not provide shade,The tree canopy provides shade,0,350_0
+The tree canopy has a large shadows,The tree canopy does not provide shade,The tree canopy provides shade,1,350_1
+The You Tube tutorial was unenlightening,The You Tube tutorial wasn't informative,The You Tube tutorial was informative,0,369_0
+The You Tube tutorial was enlightening,The You Tube tutorial wasn't informative,The You Tube tutorial was informative,1,369_1
+He was frightened,he was scared,he wasn't scared,0,383_0
+He was fearless,he was scared,he wasn't scared,1,383_1
+It was effortless,It was easy,It was not easy,0,396_0
+It was difficult,It was easy,It was not easy,1,396_1
+The clone was indistinguishable,The clone is identical,The clone isn't identical,0,411_0
+The clone was dissimilar,The clone is identical,The clone isn't identical,1,411_1
+Their relationship was superficial,The weren't close,They were close,0,430_0
+Their relationship was intimate,The weren't close,They were close,1,430_1
+It has a huge lifespan,It lives for a long time,It doesn't live for a long time,0,478_0
+It has a short lifespan,It lives for a long time,It doesn't live for a long time,1,478_1
+The shampoo has a strong moisturizing power,It moisturizes well,It doesn't moisturize well,0,479_0
+The shampoo has a weak moisturizing power,It moisturizes well,It doesn't moisturize well,1,479_1
+The movie was unsurprising,The movie could be predicted,The movie couldn't be predicted,0,493_0
+The movie was surprising,The movie could be predicted,The movie couldn't be predicted,1,493_1
+The girl gets a lot of attention,The girl gets attention.,The girl doesn't get attention,0,494_0
+The girl gets little attention,The girl gets attention.,The girl doesn't get attention,1,494_1
+Their marriage was enthusiastic,Their marriage is very passionate,Their marriage is not very passionate,0,500_0
+Their marriage was apathetic,Their marriage is very passionate,Their marriage is not very passionate,1,500_1
+The house was noisy,The house was not silent,The house was silent,0,517_0
+The house was quiet,The house was not silent,The house was silent,1,517_1
+The pillow is squashy,The pillow is soft,The pillow is not soft,0,518_0
+The pillow is hard,The pillow is soft,The pillow is not soft,1,518_1
+The book was as entertaining,The book was enjoyable,The book was not enjoyable,0,519_0
+The book was as boring,The book was enjoyable,The book was not enjoyable,1,519_1
+His movements were dexterous,His movements were delicate,His movements were not delicate,0,556_0
+His movements were clumsy,His movements were delicate,His movements were not delicate,1,556_1
+The light was shining,The light was bright,The light was not bright,0,557_0
+The light was faint,The light was bright,The light was not bright,1,557_1
+The bottle is transparent,The bottle is clear,The bottle is not clear,0,567_0
+The bottle is opaque,The bottle is clear,The bottle is not clear,1,567_1
+That cat was dangerous,The cat was deadly,The cat was not deadly,0,588_0
+That cat was harmless,The cat was deadly,The cat was not deadly,1,588_1
+The actors in the play were incompetent,The actors are not talented,The actors are very talented,0,592_0
+The actors in the play were skilled,The actors are not talented,The actors are very talented,1,592_1
+The tofu is peppery,The tofu is spicy,The tofu is not spicy,0,599_0
+The tofu is mild,The tofu is spicy,The tofu is not spicy,1,599_1
+The car was reliable,The car works well,The car does not work well,0,637_0
+The car was unreliable,The car works well,The car does not work well,1,637_1
+The woman was attractive,The woman is good looking,The woman is not good looking,0,642_0
+The woman was ugly,The woman is good looking,The woman is not good looking,1,642_1
+The drawing was circular,The drawing was round,The drawing was not round,0,648_0
+The drawing was square,The drawing was round,The drawing was not round,1,648_1
+I could eat a lot,I am very hungry,I am not very hungry,0,654_0
+I could eat a little,I am very hungry,I am not very hungry,1,654_1
+He is unfriendly,He is not sociable,He is sociable,0,661_0
+He is friendly,He is not sociable,He is sociable,1,661_1
+The juice box is adhesive,The juice box is sticky,The juice box isn't sticky,0,667_0
+The juice box is slippery,The juice box is sticky,The juice box isn't sticky,1,667_1
+The lightbulb is very bright,The lightbulb puts out a lot of light,The lightbulb does not put out a lot of light,0,671_0
+The lightbulb is very faint,The lightbulb puts out a lot of light,The lightbulb does not put out a lot of light,1,671_1
+The screen play was ficticious,The screen play wasn't realistic,The screen play was realistic,0,709_0
+The screen play was factual,The screen play wasn't realistic,The screen play was very factual,1,709_1
+The book is stupid,he book was not fantastic,The book was fantastic,0,741_0
+The book is clever,he book was not fantastic,The book was fantastic,1,741_1
+My puppy is lethargic,My puppy doesn't have a lot of energy,My puppy has a lot of energy,0,759_0
+My puppy is lively,My puppy doesn't have a lot of energy,My puppy has a lot of energy,1,759_1
+I found her to be boring,She was not interesting,She was interesting,0,760_0
+I found her to be intriguing,She was not interesting,She was interesting,1,760_1
+Those peppers I ate were spicy,The peppers were hot,The peppers were not hot,0,761_0
+Those peppers I ate were mild,The peppers were hot,The peppers were not hot,1,761_1
+Her fingernails were soft,Her fingernails were brittle,Her fingernails were not brittle,0,784_0
+Her fingernails were hard,Her fingernails were brittle,Her fingernails were not brittle,1,784_1
+He runs quickly,He can run really fast,He can not run really fast,0,796_0
+He runs slowly,He can run really fast,He can not run really fast,1,796_1
+The movie was hilarious,The movie wasn't funny,The movie was funny,1,821_0
+The movie was serious,The movie wasn't funny,The movie was funny,0,821_1
+The fence is corroded,The fence is rusty,The fence is not rusty,0,824_0
+The fence is pristine,The fence is rusty,The fence is not rusty,1,824_1
+That movie was prolonged,The movie was long,The movie was not long,0,857_0
+That movie was brief,The movie was long,The movie was not long,1,857_1
+She was emotionally weak,She was not emotionally resilient,She was emotionally resilient,0,861_0
+She was emotionally strong,She was not emotionally resilient,She was emotionally resilient,1,861_1
+That thing is expensive,The item is valuable,The item is not valuable,0,876_0
+That thing is worthless,The item is valuable,The item is not valuable,1,876_1
+His position on the platform was precarious,His position was not stable,His position was stable,0,880_0
+His position on the platform was firm,His position was not stable,His position was stable,1,880_1
+His feet were large,His feet were not small,His feet were small,0,887_0
+His feet were tiny,His feet were not small,His feet were small,1,887_1
+The gift I received was desirable,The gift was beneficial,The gift was not beneficial,0,888_0
+The gift I received was unsuitable,The gift was beneficial,The gift was not beneficial,1,888_1
+The man was determined,The man is ambitious,The man is not ambitious,0,891_0
+The man was unmotivated,The man is ambitious,The man is not ambitious,1,891_1
+This game is difficult,The game is very hard,The game is not very hard,0,931_0
+This game is easy,The game is very hard,The game is not very hard,1,931_1
+The boy's voice was very loud,The boy's voice could be heard,The boy's voice couldn't be heard,0,971_0
+The boy's voice was very quiet,The boy's voice could be heard,The boy's voice couldn't be heard,1,971_1
+He has good eyesight,He sees well,He doesn't see well,0,999_0
+He has poor eyesight,He sees well,He doesn't see well,1,999_1
+He's strict,He's not lenient,He's lenient,0,1000_0
+He's tolerant,He's not lenient,He's lenient,1,1000_1
+The comedian was amusing,The comedian was funny,The comedian was not funny,0,1029_0
+The comedian was boring,The comedian was funny,The comedian was not funny,1,1029_1
+The judge was unintelligent,The judge is not smart,The judge is smart,0,1072_0
+The judge was intelligent,The judge is not smart,The judge is smart,1,1072_1
+That wave was huge,The wave was very big,The wave wasn't very big,0,1073_0
+That wave was small,The wave was very big,The wave wasn't very big,1,1073_1
+This is entertaining,It's fun,It's not fun,0,1088_0
+This is boring,It's fun,It's not fun,1,1088_1
+The shopping list was thorough,The shopping list was detailed,The shopping list was not detailed,0,1100_0
+The shopping list was unorganised,The shopping list was detailed,The shopping list was not detailed,1,1100_1
+The blanket was velvety,The blanket was soft,The blanket was not soft,0,1106_0
+The blanket was rough,The blanket was soft,The blanket was not soft,1,1106_1
+He sang passionately,He was emotional while singing,He was not emotional while singing,0,1118_0
+He sang apathetically,He was emotional while singing,He was not emotional while singing,1,1118_1
+The football fans at the beginning of the season were hopeful,The football fans believed that the football season would be successful,The football fans did not believe that the football season would be successful,0,1141_0
+The football fans at the beginning of the season were pessimistic,The football fans believed that the football season would be successful,The football fans did not believe that the football season would be successful,1,1141_1
+The girl smiled excitedly,The girl's smile was exuberant,The girl's smile was not exuberant,0,1168_0
+The girl smiled calmly,The girl's smile was exuberant,The girl's smile was not exuberant,1,1168_1
+That man was likeable,He was not charming,He was charming,1,1178_0
+That man was hostile,He was not charming,He was charming,0,1178_1
+He's selfish,He doesn't share a lot,He shares a lot,0,1253_0
+He's generous,He doesn't share a lot,He shares a lot,1,1253_1
+This food is delicious,This food is very flavorful,This food is not very flavorful,0,1300_0
+This food is tasteless,This food is very flavorful,This food is not very flavorful,1,1300_1
+This is painful,This hurts,This does not hurt,0,1324_0
+This is painless,This hurts,This does not hurt,1,1324_1
+The knife is reflective,The knife is shiny,The knife is not shiny,0,1337_0
+The knife is matte,The knife is shiny,The knife is not shiny,1,1337_1
+The bone is pale,The bone is white,The bone is not white,0,1352_0
+The bone is dark,The bone is white,The bone is not white,1,1352_1
+The villain is very intelligent,The villain is a genius,The villain is not a genius,0,1361_0
+The villain is ignorant,The villain is a genius,The villain is not a genius,1,1361_1
+He has vast knowledge about science,He knows a lot about science,He doesn't know a lot about science,0,1374_0
+He has limited knowledge about science,He knows a lot about science,He doesn't know a lot about science,1,1374_1
+That man is truthful,The man is honest,The man is not honest,0,1409_0
+That man is deceitful,The man is honest,The man is not honest,1,1409_1
+He fought powerfully,He fought well,He didn't fight well,0,1410_0
+He fought weakly,He fought well,He didn't fight well,1,1410_1
+The house was enticing,The house was inviting,The house was not inviting,0,1436_0
+The house was repulsive,The house was inviting,The house was not inviting,1,1436_1
+That website is helpful,The website was not useful,The website was useful,1,1461_0
+That website is unhelpful,The website was not useful,The website was useful,0,1461_1
+The lamp was bright,The lamp gave off a lot of light,The lamp did not give off a lot of light,0,1482_0
+The lamp was dim,The lamp gave off a lot of light,The lamp did not give off a lot of light,1,1482_1
+The costume fit snugly,The costume fit well,The costume didn't fit well,0,1534_0
+The costume fit inadiquately,The costume fit well,The costume didn't fit well,1,1534_1
+They got few people interested,There's not many people interested in this,There's many people interested in this,0,1567_0
+They got numerous people interested,There's not many people interested in this,There's many people interested in this,1,1567_1
+The boy is slim,The boy is thin,The boy isn't thin,0,1571_0
+The boy is fat,The boy is thin,The boy isn't thin,1,1571_1
+The artist's work is identifiable,The artist's work is recognizable,The artist's work isn't recognizable,0,1572_0
+The artist's work is unremarkable,The artist's work is recognizable,The artist's work isn't recognizable,1,1572_1
+He works busily,He works really hard,He doesn't work really hard,0,1617_0
+He works lazily,He works really hard,He doesn't work really hard,1,1617_1
+He's capable at jumping,He can jump really well,He can't jump really well,0,1619_0
+He's awful at jumping,He can jump really well,He can't jump really well,1,1619_1
+The love between the two was enthusiastic,The love was very passionate,The love was not very passionate,0,1623_0
+The love between the two was modest,The love was very passionate,The love was not very passionate,1,1623_1
+After finishing his invention he felt proud,The invention was very well done,The invention was not very well done,0,1634_0
+After finishing his invention he felt ashamed,The invention was very well done,The invention was not very well done,1,1634_1
+That boy is very dumb,The boy is not a genius,The boy is a genius,0,1635_0
+That boy is very intelligent,The boy is not a genius,The boy is a genius,1,1635_1
+They are excited,they are hyped,they aren't hyped,0,1672_0
+They are disinterested,they are hyped,they aren't hyped,1,1672_1
+This blanket is thin,The blanket does not keep me warm,The blanket keeps me warm,0,1677_0
+This blanket is insulating,The blanket does not keep me warm,The blanket keeps me warm,1,1677_1
+The music is annoying,The music is not calming,The music is calming,0,1697_0
+The music is a soothing,The music is not calming,The music is calming,1,1697_1
+The route was direct,The route followed a straight line,The route did not follow a straight line,0,1699_0
+The route was twisting,The route followed a straight line,The route did not follow a straight line,1,1699_1
+The knife was cutting,The knife was sharp,The knife wasn't sharp,0,1707_0
+The knife was blunt,The knife was sharp,The knife wasn't sharp,1,1707_1
+He's solemn,He's very serious,He's not very serious,0,1717_0
+He's playful,He's very serious,He's not very serious,1,1717_1
+The document is formal,The document is official,The document isn't official,0,1760_0
+The document is casual,The document is official,The document isn't official,1,1760_1
+The milk was warm,The milk was not cold,The milk was cold,0,1801_0
+The milk was chilled,The milk was not cold,The milk was cold,1,1801_1
+He is dirty,He is not a clean person,He is a clean person,0,X6_0
+He is hygienic,He is not a clean person,He is a clean person,1,X6_1
+The night was unilluminated,The night was dark,The night was not dark,0,X10_0
+The night was bright,The night was dark,The night was not dark,1,X10_1
+The food is edible,The food can be digested easily,The food can not be digested easily,0,X11_0
+The food is inedible,The food can be digested easily,The food can not be digested easily,1,X11_1
+Mary's voice is pleasing,Mary is a good singer,Mary is not a good singer,0,X15_0
+Mary's voice is harsh,Mary is a good singer,Mary is not a good singer,1,X15_1
+The illness was benign,The illness is not serious,The illness is serious,0,X19_0
+The illness was deadly,The illness is not serious,The illness is serious,1,X19_1
+The story was tedious,The story was not enthralling,The story was enthralling,0,X30_0
+The story was captivating,The story was not enthralling,The story was enthralling,1,X30_1
+That monster was terrifying,That monster was scary,That monster was not scary,0,X39_0
+That monster was harmless,That monster was scary,That monster was not scary,1,X39_1
