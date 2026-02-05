@@ -1,30 +1,34 @@
 ## Datasets
 
-`Fig-QA Dataset calc.xlsx` - main Fig-QA dataset with all annotations
+`Fig-QA Dataset calc.xlsx` - main Fig-QA dataset (train set) with all annotations - includes calculations
 
-`Fig-QA parsed2.csv` - used in extracting tense and concreteness annotation - output from `Concreteness tense.ipynb`
+`Fig-QA Dataset copy.csv` - csv version of Fig-QA (train set) with annotations
+
+`Fig-QA Dataset calc copy.xlsx` - annotated Fig-QA test set
 
 `negation sentences.xlsx` - literal negation dataset
 
-`concreteness_category_lists2.csv` - used in calculating high/low concreteness categories - output from `test models PCA.ipynb`
+`negsents copy.csv` - csv version of the literal negation dataset
+
+`Fig-QA parsed.csv` - used in extracting tense and concreteness annotation - output from `Concreteness tense.ipynb`
+
+`Fig-QA Dataset for PCA.xlsx` - Fig-QA dataset with correct paraphrase column used to run PCA and other analysis on the paraphrases
+
+`concreteness_category_lists.xlsx` and `concreteness_category_lists_test.xlsx` - used in calculating high/low concreteness categories - output from `test models PCA.ipynb`
 
 `figqa_lemmatised.csv` - lemmatised version of the dataset
 
-`Fig-QA Dataset copy.csv` - csv copy of the dataset used to run tests
-
 `negsents_lem.csv` - lemmatised version of the literal negation dataset
-
-`negsents copy.csv` - csv copy of the literal negation dataset used to run tests
-
-`Fig-QA Dataset for PCA.xlsx` - Fig-QA dataset with correct paraphrase column used to run PCA and other analysis on the paraphrases
 
 `LICENSE` - license for Fig-QA Dataset
 
 ## Code
 
-`dm_functions_figqa-Copy.py` - functions used to run embedding models
+`dm_functions_figqa.py` - functions used to run embedding models
 
 `DataManipulation.ipynb` - used to create lemmatised datasets
+
+`Concreteness tense.ipynb` - generates concreteness and tense labels - outputs `Fig-QA parsed.csv`
 
 `test embedding models.ipynb` - run embedding models and sentence encoders on dataset - 
 To run this file models must be downloaded to the `Models` folder
@@ -43,11 +47,9 @@ https://github.com/francois-meyer/lexical-ambiguity-dms/tree/master
 
 `test LLM local.ipynb` - run LLMs locally
 
-`Concreteness tense.ipynb` - generates concreteness and tense labels - outputs `Fig-QA parsed2.csv`
+`test models PCA.ipynb` - runs PCA on sentence embeddings and generates PCA plots; calculations for concreteness/tense analysis
 
-`test models PCA.ipynb` - runs PCA on sentence embeddings and generates PCA plots; calculations for conccreteness/tense analysis
-
-`error intervals and plots.ipynb` - calculates binomial confidence intervals and generates results plots
+`error intervals and plots.ipynb` - calculates confidence intervals and generates results plots
 
 `stats.ipynb` - calculates p-values and exports to excel
 
@@ -55,8 +57,17 @@ https://github.com/francois-meyer/lexical-ambiguity-dms/tree/master
 
 `Results all Nov24` - contains all results
 
-`test_model_(all/litneg/human)_summary.xlsx` - all results compiled and accuracies calculated and summarised in table
+`test_model_(all/test/litneg/human)_summary.xlsx` - results compiled and accuracies summarised in table
 
+`Nov25_counts-for-errors_combined copied.xlsx` - all results combined for calculation of confidence intervals
+
+`results with errors output totals combined copied.csv` - all results with confidence intervals - used to generate plots
+
+`stats_out.csv` - calculated p-values from `stats.ipynb`
+
+`stats_corrected_reorder.xlsx` - p-values with multiple comparisons correction
+
+`pca_accuracies_full_sbertall.csv`, `pca_accuracies_negpairs_sbertall.csv`, `pca_concproportions-all_sbertall.csv`, `pca_negproportions-all_sbertall.csv` - results from PCA analysis
 
 
 
