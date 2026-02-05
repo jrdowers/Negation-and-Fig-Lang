@@ -69,5 +69,5 @@ https://github.com/francois-meyer/lexical-ambiguity-dms/tree/master
 
 `pca_accuracies_full_sbertall.csv`, `pca_accuracies_negpairs_sbertall.csv`, `pca_concproportions-all_sbertall.csv`, `pca_negproportions-all_sbertall.csv` - results from PCA analysis
 
-
+Full results for the test set including labels have been omitted at request of the authors of Fig-QA.
 
