@@ -27,8 +27,8 @@ The room was bright,The room was well lit,The room was not well lit,0,143_0
 The room was dark,The room was well lit,The room was not well lit,1,143_1
 The sun was shining,The sun was very bright,The sun was not very bright,0,144_0
 The sun was dim,The sun was very bright,The sun was not very bright,1,144_1
-The sand feels smooth,it's coarse,it's not coarse,0,175_0
-The sand feels rough,it's coarse,it's not coarse,1,175_1
+The sand feels smooth,it's coarse,it's not coarse,1,175_0
+The sand feels rough,it's coarse,it's not coarse,0,175_1
 She was experienced,She was skillful,She was not skillful,0,185_0
 She was inexperienced,She was skillful,She was not skillful,1,185_1
 The movie ending was straightforward,The movie ending made sense,The movie ending did not make sense,0,200_0
@@ -39,8 +39,8 @@ The cat had a lot of hair,The cat was furry,The cat was not furry,0,215_0
 The cat was bald,The cat was furry,The cat was not furry,1,215_1
 The disease was severe,The disease was very serious,The disease was not serious,0,234_0
 The disease was minor,The disease was very serious,The disease was not serious,1,234_1
-The wood floor is smooth,The floor is not slippery,The floor is slippery,0,238_0
-The wood floor is rough,The floor is not slippery,The floor is slippery,1,238_1
+The wood floor is smooth,The floor is not slippery,The floor is slippery,1,238_0
+The wood floor is rough,The floor is not slippery,The floor is slippery,0,238_1
 He's tireless,He's busy,He's not busy,0,261_0
 He's lazy,He's busy,He's not busy,1,261_1
 The book is chunky,The book is thick,The book is not thick,0,262_0
@@ -59,8 +59,8 @@ It was freezing,It wasn't hot,It was hot,0,295_0
 It was scorching,It wasn't hot,It was hot,1,295_1
 The elderly cat is tired,The cat is not hyperactive,The cat is hyperactive,0,305_0
 The elderly cat has a lot of energy,The cat is not hyperactive,The cat is hyperactive,1,305_1
-The work was mediocre,the work was amazing,the work was not amazing,0,309_0
-The work was exceptional,the work was amazing,the work was not amazing,1,309_1
+The work was mediocre,the work was amazing,the work was not amazing,1,309_0
+The work was exceptional,the work was amazing,the work was not amazing,0,309_1
 The child was intelligent,The child was smart,The child was not smart,0,317_0
 The child was stupid,The child was smart,The child was not smart,1,317_1
 The government was very productive,The government was efficient,The government was not efficient,0,323_0
